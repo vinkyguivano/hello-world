@@ -41,7 +41,8 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>Simple Devops Projects</h2>
+<h2>Keep going. Don't fuckin quit</h2>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
