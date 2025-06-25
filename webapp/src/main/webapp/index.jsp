@@ -45,7 +45,7 @@
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Vinkyyyyy"><br>
+  <input type="text" id="fname" name="fname" value="Vinkyyy"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Guivano"><br><br>
   <input type="submit" value="Submit">
